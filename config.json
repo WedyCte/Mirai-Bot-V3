@@ -17,11 +17,13 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Mirai-V3-Unofficial",
-    "PREFIX": "!",
-    "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
+    "PREFIX": ".",
+    "BOXADMIN": "",
+    "ADMINBOT": [
+"61562973696478"
+],
     "NDH": [
-        "502275138"
+        "61562973696478"
     ],
     "version": "3.0.0",
     "menu": {
